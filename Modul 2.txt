@@ -1,3 +1,5 @@
+Project MedFast Kelompok 6
+
 Allicia Felicitas Gonza Batas (PM)
 M Athar Ghiffari
 Mahendra Arya Pradita
@@ -6,3 +8,4 @@ Muhammad Faqih Naufaldy
 Muhammad Azka Farhan
 
 PPL-2025
+PRAKTIKUM PPL NIH
